@@ -1,0 +1,5 @@
+title: My Sample Book
+author: hwans
+logo: logo.png
+execute:
+  execute_notebooks: force
